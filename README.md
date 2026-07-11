@@ -26,6 +26,6 @@ I build systems where humans and AI agents work together to ship real software. 
 
 ### 📫 Reach me
 
-- ✉️ tomas.mcmonigal@gmail.com
+- ✉️ tomas@eastwood.ai
 - 🌐 [eastwood.ai](https://eastwood.ai)
 - 🔗 [linkedin.com/in/tomas-mcmonigal](https://www.linkedin.com/in/tomas-mcmonigal/)
